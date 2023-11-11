@@ -5,7 +5,7 @@ const Navbar = () => {
   const href = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-9TNeMby-KpdADJr0N4AR91vIQMXs4LE8w&usqp=CAU'
 
   return (
-    <div className="p-4 text-slate-800 border-b h-full flex items-center justify-between bg-white shadow-sm">
+    <div className="p-4 text-slate-600 border-b h-full flex items-center justify-between bg-white shadow-sm">
       <MobileSidebar />
       <div className="flex items-center gap-x-4 ml-auto">
         <div>
