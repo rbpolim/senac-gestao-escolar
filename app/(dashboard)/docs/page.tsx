@@ -1,6 +1,5 @@
-import { Separator } from "@radix-ui/react-separator"
-
 import { Heading } from "@/components/heading"
+import { Separator } from "@/components/ui/separator"
 
 const DocumentsPage = () => {
   return (

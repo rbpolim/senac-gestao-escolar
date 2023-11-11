@@ -41,7 +41,7 @@ export const NavRoutes = () => {
     {
       icon: FolderClosed,
       label: "Meus Documentos",
-      href: "/documents",
+      href: "/docs",
     },
   ]
 
