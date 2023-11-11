@@ -4,7 +4,7 @@ import { ColumnDef } from "@tanstack/react-table"
 
 export type CategoryColumn = {
   id: number
-  amount: number;
+  amount: string;
   status: string;
   month: string;
   year: number;
