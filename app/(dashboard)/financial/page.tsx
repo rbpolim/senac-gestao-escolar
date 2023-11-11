@@ -1,7 +1,7 @@
-import { DataTable } from "@/components/ui/data-table"
+import { Heading } from "@/components/heading"
 import { Separator } from "@/components/ui/separator"
-
-import { columns } from "./_components/columns"
+// import { DataTable } from "@/components/ui/data-table"
+// import { columns } from "./_components/columns"
 
 const data = [
   {
@@ -51,14 +51,12 @@ const data = [
 const FinancialPage = () => {
   return (
     <div className="flex-1 p-8 pt-6 space-y-4">
-      <div>
-        <h2 className="text-3xl font-bold tracking-tight">Financial</h2>
-        <p className="text-sm text-muted-foreground">
-          Manage categories for your store
-        </p>
-      </div>
+      <Heading
+        title="Financial"
+        description="Manage categories for your store"
+      />
       <Separator />
-      <DataTable searchKey="month" columns={columns} data={data} />
+      {/* <DataTable searchKey="month" columns={columns} data={data} />  */}
     </div >
   )
 }

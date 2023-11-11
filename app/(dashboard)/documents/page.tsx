@@ -1,7 +1,14 @@
+import { Heading } from "@/components/heading"
+import { Separator } from "@radix-ui/react-separator"
+
 const DocumentsPage = () => {
   return (
-    <div className="p-8">
-      <h1 className="text-3xl font-bold">Documents Page</h1>
+    <div className="flex-1 p-8 pt-6 space-y-4">
+      <Heading
+        title="Documents"
+        description="Manage your documents"
+      />
+      <Separator />
     </div>
   )
 }

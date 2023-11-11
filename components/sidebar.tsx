@@ -1,9 +1,9 @@
 import { Logo } from "@/components/logo"
 import { NavRoutes } from "@/components/nav-routes"
 
-const Sidebar = () => {
+export const Sidebar = () => {
   return (
-    <div className="h-full border-r flex flex-col overflow-y-auto bg-white shadow-md">
+    <div className="flex flex-col h-full overflow-y-auto bg-white border-r shadow-md">
       <div className="p-6">
         <Logo />
       </div>
@@ -13,5 +13,3 @@ const Sidebar = () => {
     </div>
   )
 }
-
-export default Sidebar
