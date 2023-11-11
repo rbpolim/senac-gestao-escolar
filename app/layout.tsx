@@ -8,7 +8,9 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+
   title: 'SENAC | Gestão Escolar',
+  
   description: 'Projeto Integrador 2023 - SENAC',
 }
 
