@@ -2,11 +2,8 @@ import { Button } from "@/components/ui/button"
 
 const Home = () => {
   return (
-    <div>
-      <h1>Senac</h1>
-      <Button>
-        CLICK HERE
-      </Button>
+    <div className="p-8">
+      <h1 className="text-3xl font-bold">Home Page</h1>
     </div>
   )
 }
