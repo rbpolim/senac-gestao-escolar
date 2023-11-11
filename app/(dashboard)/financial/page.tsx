@@ -3,7 +3,7 @@ import { Separator } from "@/components/ui/separator"
 
 import { columns } from "./_components/columns"
 
-export const data = [
+const data = [
   {
     id: 1,
     amount: 'R$ 259,99',
