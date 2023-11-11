@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Gestão Escolar
 
-First, run the development server:
+Explore a excelência educacional com nossa plataforma de gestão escolar. Acesse suas notas, frequência, e informações financeiras de forma fácil e rápida. Mantenha-se atualizado sobre seu desempenho acadêmico e simplifique a administração escolar, tudo em um só lugar."
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The project utilizes the following features:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Acesso rápido a notas e desempenho acadêmico.
+- Monitoramento em tempo real da frequência escolar.
+- Visualização detalhada do histórico acadêmico.
+- Comunicação direta entre alunos, professores e pais/responsáveis.
+- Notificações instantâneas sobre eventos escolares e anúncios importantes.
+- Gestão financeira transparente, com detalhes sobre mensalidades e pagamentos.
+- Calendário escolar integrado para acompanhamento de atividades e prazos.
+- Recursos de autoavaliação para alunos acompanharem seu progresso.
+- Plataforma intuitiva e fácil de usar para uma experiência eficiente.
 
-## Learn More
+## Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+The project utilizes the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Front-end: Next.js, React, Tailwind CSS
