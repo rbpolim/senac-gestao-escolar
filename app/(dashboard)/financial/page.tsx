@@ -58,7 +58,7 @@ const FinancialPage = () => {
       />
       <Separator />
       <DataTable searchKey="month" columns={columns} data={data} />
-    </div >
+    </div>
   )
 }
 

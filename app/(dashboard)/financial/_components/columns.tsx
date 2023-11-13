@@ -4,7 +4,7 @@ import { ColumnDef } from "@tanstack/react-table"
 
 import { Badge } from "@/components/ui/badge";
 
-export type CategoryColumn = {
+export type FinancialColumn = {
   id: number
   amount: string;
   status: string;
@@ -12,7 +12,7 @@ export type CategoryColumn = {
   year: number;
 }
 
-export const columns: ColumnDef<CategoryColumn>[] = [
+export const columns: ColumnDef<FinancialColumn>[] = [
   {
     accessorKey: "month",
     header: "Mês",
