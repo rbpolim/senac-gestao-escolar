@@ -2,6 +2,8 @@
 
 import { ColumnDef } from "@tanstack/react-table"
 
+import { Badge } from "@/components/ui/badge";
+
 export type CategoryColumn = {
   id: number
   amount: string;
@@ -26,6 +28,12 @@ export const columns: ColumnDef<CategoryColumn>[] = [
   {
     accessorKey: "Status",
     header: "Status",
-    cell: ({ row }) => row.original.status,
+    cell: ({ row }) => (
+      <Badge
+        variant={row.original.status === "ok" ? "success" : "warning"}
+      >
+        {row.original.status === "ok" ? "Pago" : "Pendente"}
+      </Badge>
+    ),
   },
 ];
