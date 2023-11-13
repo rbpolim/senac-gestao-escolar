@@ -3,6 +3,7 @@
 import { ColumnDef } from "@tanstack/react-table"
 
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 
 export type FinancialColumn = {
   id: number
@@ -34,6 +35,14 @@ export const columns: ColumnDef<FinancialColumn>[] = [
       >
         {row.original.status === "ok" ? "Pago" : "Pendente"}
       </Badge>
+    ),
+  },
+  {
+    header: "Comprovante",
+    cell: ({ row }) => (
+      <Button variant="link">
+        Ver
+      </Button>
     ),
   },
 ];

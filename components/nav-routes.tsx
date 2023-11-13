@@ -2,9 +2,7 @@
 
 import {
   BadgeDollarSign,
-  FolderClosed,
   Home,
-  PlusCircle,
   Settings,
   UserSquare2
 } from "lucide-react"
@@ -29,19 +27,9 @@ export const NavRoutes = () => {
       href: "/classes",
     },
     {
-      icon: PlusCircle,
-      label: "Nova Matricula",
-      href: "/registration",
-    },
-    {
       icon: BadgeDollarSign,
       label: "Financeiro",
       href: "/financial",
-    },
-    {
-      icon: FolderClosed,
-      label: "Meus Documentos",
-      href: "/docs",
     },
   ]
 
