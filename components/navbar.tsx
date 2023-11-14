@@ -8,7 +8,7 @@ import {
 
 export const Navbar = () => {
   return (
-    <div className="flex items-center justify-between h-full p-4 border-b shadow-sm text-foreground">
+    <div className="flex items-center justify-between h-full p-4 border-b shadow-sm text-foreground bg-background">
       <MobileSidebar />
       <div className="flex items-center ml-auto gap-x-6">
         <div>
