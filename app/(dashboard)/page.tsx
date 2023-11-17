@@ -12,6 +12,7 @@ import {
 import { Plus } from "lucide-react"
 import Dialog from "@/components/ui/dialog"
 import Register from "@/components/ui/DialogContent/register"
+import Address from "@/components/ui/DialogContent/address"
 
 const Home = () => {
   return (
@@ -89,9 +90,9 @@ const Home = () => {
             </div>
           </CardContent>
           <CardFooter>
-            <Button size="sm" className="btn btn-primary btn-sm">
-              Editar
-            </Button>
+            <Dialog buttonText="Editar">
+              <Address/>
+            </Dialog>
           </CardFooter>
         </Card>
       </div>
