@@ -2,11 +2,18 @@
 import * as Dialog from '@radix-ui/react-dialog';
 import { Button } from "@/components/ui/button"
 import '@/components/ui/styles/dialog.css'
+import { Cross2Icon } from '@radix-ui/react-icons';
 
 
 const Register = () => (
         <>
+       
         <Dialog.Title className="DialogTitle">Editar Dados Cadastrais</Dialog.Title>
+        <Dialog.Close>
+          <button className="IconButton" aria-label="Close">
+            <Cross2Icon />
+          </button>
+        </Dialog.Close>
         <fieldset className="Fieldset">
           <label className="Label" htmlFor="name">
             Nome completo
