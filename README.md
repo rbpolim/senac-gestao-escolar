@@ -1,14 +1,18 @@
+![Slide 4_3 - 1](https://github.com/rbpolim/projeto-integrador-parte-2/assets/66570560/41a279a2-29ba-4691-bb49-efb73b470186)
 
 # Gestão Escolar
 
-Explore a excelência educacional com nossa plataforma de gestão escolar. Acesse suas notas, frequência, e informações financeiras de forma fácil e rápida. Mantenha-se atualizado sobre seu desempenho acadêmico e simplifique a administração escolar, tudo em um só lugar."
+Explore a excelência educacional com nossa plataforma de gestão escolar. Acesse suas notas, frequência, e informações financeiras de forma fácil e rápida. Mantenha-se atualizado sobre seu desempenho acadêmico e simplifique a administração escolar, tudo em um só lugar.
 
 ## Demo
 
+<https://senac-gestao-escolar-git-main-rbpolim.vercel.app/>
+
 ## Features
 
-The project utilizes the following features:
+O projeto usa os seguintes recursos:
 
+- Você poderá se cadastrar como Estudante, Professor ou Fornecedor.
 - Acesso rápido a notas e desempenho acadêmico.
 - Monitoramento em tempo real da frequência escolar.
 - Visualização detalhada do histórico acadêmico.
@@ -21,6 +25,6 @@ The project utilizes the following features:
 
 ## Tech Stack
 
-The project utilizes the following technologies:
+O projeto utiliza as seguintes tecnologias:
 
 - Front-end: Next.js, React, Tailwind CSS
