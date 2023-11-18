@@ -1,0 +1,9 @@
+button
+
+.RemoveButton {
+background-color: red;
+}
+
+.RemoveButton:hover {
+    background-color: rgba(255, 0, 0, 0.5);
+}
