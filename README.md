@@ -10,15 +10,14 @@ Explore a excelência educacional com nossa plataforma de gestão escolar. Acess
 
 ## Colaboradores
 
-[Augusto Omena](https://github.com/AugustoOmena)
-[Luana Mouro](https://github.com/luanamouro)
-[Gabriel Brown](https://github.com/gabrielbrownn)
-
-- Gabriel Silva(<https://github.com/gabrielllsp>)
-Gabriel Moreira(<https://github.com/GabrielLuizPacheco>)
-Gabriel Araujo(<https://github.com/SadSmoker>)
-Richard Sukar(<https://github.com/RichardSukar>)
-Rodrigo Polim(<https://github.com/rbpolim>)
+- [Augusto Omena](https://github.com/AugustoOmena)
+- [Luana Mouro](https://github.com/luanamouro)
+- [Gabriel Brown](https://github.com/gabrielbrownn)
+- [Gabriel Silva](<https://github.com/gabrielllsp>)
+- [Gabriel Moreira](<https://github.com/GabrielLuizPacheco>)
+- [Gabriel Araujo](<https://github.com/SadSmoker>)
+- [Richard Sukar](<https://github.com/RichardSukar>)
+- [Rodrigo Polim](<https://github.com/rbpolim>)
 
 ## Features
 
