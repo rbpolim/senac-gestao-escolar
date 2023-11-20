@@ -3,7 +3,6 @@ input {
   all: unset;
 }
 
-
 .Container {
     background-color: white;
     border-radius: 6px;
@@ -54,6 +53,13 @@ input {
     box-shadow: 0 0 0 2px rgb(59 130 246 / 0.5);
   }
 
+  .Title {
+    font-size: 22px;
+    text-align: right;
+    font-weight: 500;
+
+  }
+
   .Fieldset {
     margin-bottom: 15px;
     width: 95%;
@@ -70,11 +76,58 @@ input {
     font-size: 15px;
   }
 
+  .radio {
+    display: block;
+    position: relative;
+    padding-left: 24px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 15px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 30%;
+  }
+  
+  .radio input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 16px;
+    width: 16px;
+    background-color: #eee;
+    border-radius: 50%;
+  }
+  
+  .radio:hover input ~ .checkmark {
+    background-color: #ccc;
+  }
+  
+  .radio input:checked ~ .checkmark {
+    background-color: rgb(59 130 246);
+  }
+  
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  .radio input:checked ~ .checkmark:after {
+    display: block;
+  }
 
-
-
-
-
-
-
+  .RadiosContainer{
+    margin-top: 16px;
+    display: flex;
+  }
   
