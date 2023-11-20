@@ -1,6 +1,6 @@
 ![Slide 4_3 - 1](https://github.com/rbpolim/projeto-integrador-parte-2/assets/66570560/41a279a2-29ba-4691-bb49-efb73b470186)
 
-# Gestão Escolar
+## Projeto Integrador - Gestão Escolar
 
 Explore a excelência educacional com nossa plataforma de gestão escolar. Acesse suas notas, frequência, e informações financeiras de forma fácil e rápida. Mantenha-se atualizado sobre seu desempenho acadêmico e simplifique a administração escolar, tudo em um só lugar.
 
@@ -8,7 +8,7 @@ Explore a excelência educacional com nossa plataforma de gestão escolar. Acess
 
 <https://senac-gestao-escolar-git-main-rbpolim.vercel.app/>
 
-# Organização do Projeto
+## Organização do Projeto
 
 <https://github.com/senac-projeto-integrador-2023/pi-parte-2/>
 
