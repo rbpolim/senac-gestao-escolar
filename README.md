@@ -8,6 +8,10 @@ Explore a excelência educacional com nossa plataforma de gestão escolar. Acess
 
 <https://senac-gestao-escolar-git-main-rbpolim.vercel.app/>
 
+# Organização do Projeto
+
+<https://github.com/senac-projeto-integrador-2023/pi-parte-2/>
+
 ## Colaboradores
 
 - [Augusto Omena](https://github.com/AugustoOmena)
