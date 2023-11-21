@@ -14,8 +14,8 @@ Explore a excelência educacional com nossa plataforma de gestão escolar. Acess
 
 ## Estrutura do Projeto
 
-- [use-cases](https://github.com/rbpolim/projeto-integrador-parte-2/tree/master/use-cases)
-- [diagrama](https://github.com/rbpolim/projeto-integrador-parte-2/tree/master/diagrama)
+- [use-cases](https://github.com/rbpolim/projeto-integrador-parte-2/blob/master/use-cases/use-cases.jpeg)
+- [diagrama](https://github.com/rbpolim/projeto-integrador-parte-2/blob/master/diagrama/diagrama.jpeg)
 - [prototipos](https://github.com/rbpolim/projeto-integrador-parte-2/tree/master/prototipos)
 - [projeto-web](https://github.com/rbpolim/projeto-integrador-parte-2/tree/master/web)
 
