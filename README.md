@@ -35,15 +35,13 @@ Explore a excelência educacional com nossa plataforma de gestão escolar. Acess
 O projeto usa os seguintes recursos:
 
 - Você poderá se cadastrar como Estudante, Professor ou Fornecedor.
+- Plataforma intuitiva e fácil de usar para uma experiência eficiente.
+- Tema light e dark para melhorar a experiência do usuário.
 - Acesso rápido a notas e desempenho acadêmico.
 - Monitoramento em tempo real da frequência escolar.
 - Visualização detalhada do histórico acadêmico.
 - Comunicação direta entre alunos, professores e pais/responsáveis.
-- Notificações instantâneas sobre eventos escolares e anúncios importantes.
 - Gestão financeira transparente, com detalhes sobre mensalidades e pagamentos.
-- Calendário escolar integrado para acompanhamento de atividades e prazos.
-- Recursos de autoavaliação para alunos acompanharem seu progresso.
-- Plataforma intuitiva e fácil de usar para uma experiência eficiente.
 
 ## Tech Stack
 
