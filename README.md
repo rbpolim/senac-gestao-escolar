@@ -4,10 +4,6 @@
 
 Explore a excelência educacional com nossa plataforma de gestão escolar. Acesse suas notas, frequência, e informações financeiras de forma fácil e rápida. Mantenha-se atualizado sobre seu desempenho acadêmico e simplifique a administração escolar, tudo em um só lugar.
 
-## Demo
-
-<https://senac-gestao-escolar-git-main-rbpolim.vercel.app/>
-
 ## Organização do Projeto
 
 <https://github.com/senac-projeto-integrador-2023/pi-parte-2/>
